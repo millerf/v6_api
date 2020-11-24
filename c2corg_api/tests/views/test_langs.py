@@ -14,6 +14,7 @@ class TestLangs(BaseTestRest):
             "es",
             "it",
             "eu",
+            "zh"
         )
         return super().setUpClass()
 
